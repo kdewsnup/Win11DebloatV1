@@ -105,10 +105,10 @@ XING                                           # Professional networking platfor
 #Microsoft.Edge                                # Edge browser (Can only be uninstalled in European Economic Area)
 #Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.GetHelp                             # Required for some Windows 11 Troubleshooters and support interactions
-#Microsoft.M365Companions                      # Microsoft 365 (Business) Calendar, Files and People mini-apps, these apps may be reinstalled if enabled by your Microsoft 365 admin
+Microsoft.M365Companions                      # Microsoft 365 (Business) Calendar, Files and People mini-apps, these apps may be reinstalled if enabled by your Microsoft 365 admin
 #Microsoft.MSPaint                             # Paint 3D (Modern paint application with 3D features)
-#Microsoft.OneDrive                            # OneDrive consumer cloud storage client
-#Microsoft.OutlookForWindows                   # New mail app: Outlook for Windows
+Microsoft.OneDrive                            # OneDrive consumer cloud storage client
+Microsoft.OutlookForWindows                   # New mail app: Outlook for Windows
 #Microsoft.Paint                               # Classic Paint (Traditional 2D paint application)
 #Microsoft.People                              # Required for & included with Mail & Calendar (Contacts management)
 #Microsoft.RemoteDesktop                       # Remote Desktop client app
@@ -118,17 +118,17 @@ XING                                           # Professional networking platfor
 #Microsoft.Windows.Photos                      # Default photo viewing and basic editing app
 #Microsoft.WindowsCalculator                   # Calculator app
 #Microsoft.WindowsCamera                       # Camera app for using built-in or connected cameras
-#Microsoft.windowscommunicationsapps           # Mail & Calendar app suite
+Microsoft.windowscommunicationsapps           # Mail & Calendar app suite
 #Microsoft.WindowsNotepad                      # Notepad text editor app
 #Microsoft.WindowsStore                        # Microsoft Store, WARNING: This app cannot be reinstalled easily if removed!
 #Microsoft.WindowsTerminal                     # New default terminal app in windows 11 (Command Prompt, PowerShell, WSL)
-#Microsoft.Xbox.TCUI                           # UI framework, seems to be required for MS store, photos and certain games
-#Microsoft.XboxGameOverlay                     # Game overlay, required/useful for some games (Part of Xbox Game Bar)
-#Microsoft.XboxGamingOverlay                   # Game overlay, required/useful for some games (Part of Xbox Game Bar)
-#Microsoft.XboxIdentityProvider                # Xbox sign-in framework, required for some games and Xbox services
-#Microsoft.XboxSpeechToTextOverlay             # Might be required for some games, WARNING: This app cannot be reinstalled easily! (Accessibility feature)
-#Microsoft.YourPhone                           # Phone link (Connects Android/iOS phone to PC)
-#Microsoft.ZuneMusic                           # Modern Media Player (Replaced Groove Music, plays local audio/video)
+Microsoft.Xbox.TCUI                           # UI framework, seems to be required for MS store, photos and certain games
+Microsoft.XboxGameOverlay                     # Game overlay, required/useful for some games (Part of Xbox Game Bar)
+Microsoft.XboxGamingOverlay                   # Game overlay, required/useful for some games (Part of Xbox Game Bar)
+Microsoft.XboxIdentityProvider                # Xbox sign-in framework, required for some games and Xbox services
+Microsoft.XboxSpeechToTextOverlay             # Might be required for some games, WARNING: This app cannot be reinstalled easily! (Accessibility feature)
+Microsoft.YourPhone                           # Phone link (Connects Android/iOS phone to PC)
+Microsoft.ZuneMusic                           # Modern Media Player (Replaced Groove Music, plays local audio/video)
 #MicrosoftWindows.CrossDevice                  # Phone integration within File Explorer, Camera and more (Part of Phone Link features)
 #AD2F1837.HPAIExperienceCenter                 # HP OEM software, AI-enhanced features and support
 #AD2F1837.HPConnectedMusic                     # HP OEM software for music (Potentially discontinued)
