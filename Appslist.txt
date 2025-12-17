@@ -103,7 +103,7 @@ XING                                           # Professional networking platfor
 #Microsoft.BingSearch                          # Web Search from Microsoft Bing (Integrates into Windows Search)
 #Microsoft.Copilot                             # New Microsoft Copilot app (AI assistant)
 #Microsoft.Edge                                # Edge browser (Can only be uninstalled in European Economic Area)
-#Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
+Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.GetHelp                             # Required for some Windows 11 Troubleshooters and support interactions
 Microsoft.M365Companions                      # Microsoft 365 (Business) Calendar, Files and People mini-apps, these apps may be reinstalled if enabled by your Microsoft 365 admin
 #Microsoft.MSPaint                             # Paint 3D (Modern paint application with 3D features)
